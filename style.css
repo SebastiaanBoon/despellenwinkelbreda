@@ -46,3 +46,4 @@ footer .wrap{display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px}
 nav a:not(.btn){display:none}
 section{padding:40px 0}
 }
+@media(max-width:520px){header .btn{padding:9px 14px;white-space:nowrap;font-size:14px}}
